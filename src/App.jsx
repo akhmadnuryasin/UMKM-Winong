@@ -49,7 +49,7 @@ function App() {
         className="mx-auto w-96 bg-white text-center flex justify-center items-center flex-col"
       >
         <Avatar src="/Logo.png" className="w-20 h-20 text-large mb-4" />
-        <h1 className="font-semibold">WINONG TOUR</h1>
+        <h1 className="font-semibold">EXPLORE WINONG</h1>
         <h2 className="mt-1 mb-3 text-tiny">
           Halo! Klik link dibawah untuk info selengkapnya
         </h2>
