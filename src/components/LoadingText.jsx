@@ -11,8 +11,10 @@ const LoadingText = () => {
       animate={{ opacity: 1 }}
       transition={{ duration: 1, ease: "easeInOut" }}
     >
-      <p className={`${theme === "dark" ? "text-white" : "text-black"}`}>
-        Wellcome
+      <p
+        className={`${theme === "dark" ? "text-white" : "text-black"} sambutan`}
+      >
+        Welcome
       </p>
     </motion.div>
   );
