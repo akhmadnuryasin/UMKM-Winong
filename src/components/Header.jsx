@@ -25,7 +25,7 @@ const Header = () => {
     >
       <div className="w-full flex justify-center mb-2">
         <Avatar
-          src="/logo.png"
+          src="./logo.png"
           className="w-20 h-20 border-2 border-white"
           style={{
             boxShadow:
