@@ -36,7 +36,10 @@ const List = (props) => {
         window.open("https://wa.me/62881011940063", "_blank");
         break;
       case "instagram":
-        window.open("https://www.instagram.com/queenbouquet2", "_blank");
+        window.open(
+          "https://www.instagram.com/winong619?igsh=MTFvZW03a3pvNXJoMQ%3D%3D",
+          "_blank"
+        );
         break;
       case "locations":
         window.open(
